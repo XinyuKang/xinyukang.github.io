@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Our paper on Model Adaptation Method was accepted and selected as Oral in 2021 ICCV!
+date: 2021-07-22
 inline: false
 ---
 

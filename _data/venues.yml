@@ -4,3 +4,15 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"ICCV 2021 Oral":
+  url: https://iccv2021.thecvf.com/home
+
+"BMVC 2022":
+  url:https://bmvc2022.org/
+
+"SPIE 2022 Oral":
+  url: https://spie.org/conferences-and-exhibitions
+
+"Outstanding Paper":
+  color: "#f5d5ee"
